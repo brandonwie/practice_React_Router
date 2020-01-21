@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/course-directory/static/css/main.ceca84a1.chunk.css",
-    "main.js": "/course-directory/static/js/main.b8e538ac.chunk.js",
-    "main.js.map": "/course-directory/static/js/main.b8e538ac.chunk.js.map",
-    "runtime-main.js": "/course-directory/static/js/runtime-main.5f1f2915.js",
-    "runtime-main.js.map": "/course-directory/static/js/runtime-main.5f1f2915.js.map",
-    "static/js/2.cc722835.chunk.js": "/course-directory/static/js/2.cc722835.chunk.js",
-    "static/js/2.cc722835.chunk.js.map": "/course-directory/static/js/2.cc722835.chunk.js.map",
-    "index.html": "/course-directory/index.html",
-    "precache-manifest.3dfcbeb2337ac26411af4cb382aedab2.js": "/course-directory/precache-manifest.3dfcbeb2337ac26411af4cb382aedab2.js",
-    "service-worker.js": "/course-directory/service-worker.js",
-    "static/css/main.ceca84a1.chunk.css.map": "/course-directory/static/css/main.ceca84a1.chunk.css.map",
-    "static/js/2.cc722835.chunk.js.LICENSE": "/course-directory/static/js/2.cc722835.chunk.js.LICENSE"
+    "main.css": "/practice_React_Router/static/css/main.ceca84a1.chunk.css",
+    "main.js": "/practice_React_Router/static/js/main.7deef4ee.chunk.js",
+    "main.js.map": "/practice_React_Router/static/js/main.7deef4ee.chunk.js.map",
+    "runtime-main.js": "/practice_React_Router/static/js/runtime-main.db9a898d.js",
+    "runtime-main.js.map": "/practice_React_Router/static/js/runtime-main.db9a898d.js.map",
+    "static/js/2.cc722835.chunk.js": "/practice_React_Router/static/js/2.cc722835.chunk.js",
+    "static/js/2.cc722835.chunk.js.map": "/practice_React_Router/static/js/2.cc722835.chunk.js.map",
+    "index.html": "/practice_React_Router/index.html",
+    "precache-manifest.1daf94164afd4d72736621c006967582.js": "/practice_React_Router/precache-manifest.1daf94164afd4d72736621c006967582.js",
+    "service-worker.js": "/practice_React_Router/service-worker.js",
+    "static/css/main.ceca84a1.chunk.css.map": "/practice_React_Router/static/css/main.ceca84a1.chunk.css.map",
+    "static/js/2.cc722835.chunk.js.LICENSE": "/practice_React_Router/static/js/2.cc722835.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f1f2915.js",
+    "static/js/runtime-main.db9a898d.js",
     "static/js/2.cc722835.chunk.js",
     "static/css/main.ceca84a1.chunk.css",
-    "static/js/main.b8e538ac.chunk.js"
+    "static/js/main.7deef4ee.chunk.js"
   ]
 }
