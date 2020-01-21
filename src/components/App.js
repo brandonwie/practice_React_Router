@@ -11,7 +11,7 @@ import NotFound from "./NotFound";
 import Featured from "./Featured";
 
 const App = () => (
-  <HasRouter basename="/practice_React_Router">
+  <HashRouter basename="/practice_React_Router">
     <div className="container">
       <Header />
       <Switch>
@@ -23,7 +23,7 @@ const App = () => (
         <Route component={NotFound} />
       </Switch>
     </div>
-  </HasRouter>
+  </HashRouter>
 );
 
 export default App;
