@@ -11,7 +11,7 @@ import NotFound from "./NotFound";
 import Featured from "./Featured";
 
 const App = () => (
-  <BrowserRouter basename="/test_react_router">
+  <BrowserRouter basename="/practice_React_Router">
     <div className="container">
       <Header />
       <Switch>

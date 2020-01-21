@@ -2,7 +2,7 @@
   "name": "course-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brandonwie.github.io/test_react_router/",
+  "homepage": "https://brandonwie.github.io/practice_React_Router/",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
