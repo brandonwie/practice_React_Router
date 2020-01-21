@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/practice_React_Router/static/css/main.ceca84a1.chunk.css",
+    "main.js": "/practice_React_Router/static/js/main.1778e9d8.chunk.js",
+    "main.js.map": "/practice_React_Router/static/js/main.1778e9d8.chunk.js.map",
+    "runtime-main.js": "/practice_React_Router/static/js/runtime-main.db9a898d.js",
+    "runtime-main.js.map": "/practice_React_Router/static/js/runtime-main.db9a898d.js.map",
+    "static/js/2.803b071b.chunk.js": "/practice_React_Router/static/js/2.803b071b.chunk.js",
+    "static/js/2.803b071b.chunk.js.map": "/practice_React_Router/static/js/2.803b071b.chunk.js.map",
+    "index.html": "/practice_React_Router/index.html",
+    "precache-manifest.270c328ae3b85642a726ebbecca572d0.js": "/practice_React_Router/precache-manifest.270c328ae3b85642a726ebbecca572d0.js",
+    "service-worker.js": "/practice_React_Router/service-worker.js",
+    "static/css/main.ceca84a1.chunk.css.map": "/practice_React_Router/static/css/main.ceca84a1.chunk.css.map",
+    "static/js/2.803b071b.chunk.js.LICENSE": "/practice_React_Router/static/js/2.803b071b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db9a898d.js",
+    "static/js/2.803b071b.chunk.js",
+    "static/css/main.ceca84a1.chunk.css",
+    "static/js/main.1778e9d8.chunk.js"
+  ]
+}
